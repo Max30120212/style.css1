@@ -5,7 +5,7 @@ body {
 h1 {
     text-align: center;
     font-size: 60px;
-}
+} 
 
 h2{
     font-size: 40px;
